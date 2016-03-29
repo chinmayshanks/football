@@ -15,4 +15,4 @@ Click on any team to view more details about the team. Click on 'back' to go bac
 
 
 ## License
-See the [LICENSE](License.md) for license rights and limitations (MIT)
+See the [LICENSE](LICENSE.md) for license rights and limitations (MIT)
